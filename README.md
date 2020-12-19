@@ -1,5 +1,7 @@
 # Twitter-Searcher
 
+This is part of Project 2 Phase 1
+
 Created using twitter API, tkinter, tweepy. 
 To work, credentials should be added to the credentials_template.py and renamed to credentlias.py.
 
